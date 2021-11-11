@@ -23,7 +23,7 @@ After telling her my idea, she now had big expectations. I was on a deadline (ch
 
 <mark>If you're interested in the details of the scrapers, please take a look at the [script](getPages.py) built and commented [notebook](scraper.ipynb).</mark>
 
-# Peak at some visuals
+# Peek at some visuals
 
 <figure>
 <img src="Girls_top_words.png" alt="Trulli" style="width:100%">
