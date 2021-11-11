@@ -27,7 +27,7 @@ After telling her my idea, she now had big expectations. I was on a deadline (ch
 
 <figure>
 <img src="Girls_top_words.png" alt="Trulli" style="width:100%">
-<figcaption align = "center"><b>Fig.1 - Most common words in exclusive boys toys</b></figcaption>
+<figcaption align = "center"><b>Fig.1 - Most common words in exclusive girls toys</b></figcaption>
 </figure>
 
 <figure>
